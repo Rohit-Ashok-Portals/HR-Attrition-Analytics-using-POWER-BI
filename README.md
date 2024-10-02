@@ -1,7 +1,5 @@
 # HR-Attrition-Analytics-using-POWER-BI
 
-Here’s a description for the HR Analytics project on GitHub:
-
 HR Analytics Dashboard for Employee Attrition - Power BI
 Project Overview:
 This project focuses on HR Analytics for employee attrition, where I developed an interactive Power BI dashboard to analyze employee turnover within an organization. The dashboard provides key insights into various factors contributing to attrition, offering organizations a clear view to optimize their retention strategies.
